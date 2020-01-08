@@ -25,7 +25,7 @@ module.exports = {
       "arrow-parens": "off",
       "arrow-spacing": "off",
       "block-spacing": "off",
-      "brace-style": "off",
+      //"brace-style": "off",
       "comma-dangle": "off",
       "comma-spacing": "off",
       "comma-style": "off",
